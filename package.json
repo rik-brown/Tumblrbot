@@ -1,0 +1,15 @@
+{
+  "name": "your_name_here",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "tumblrbot.js",
+  "scripts": {
+    "start": "node tumblrbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tumblr.js": "^1.1.1"
+  }
+}
