@@ -29,7 +29,7 @@ function postTumblr(); {
       tags: 'this_is_a_tag, another_tag, tags_etc'
     };
 
-    client.createPhotoPost('cellendipity', options, posted);
+    client.createPhotoPost('your_blog_name_here', options, posted);
 
     function posted(err, success) {
       if (err) {
